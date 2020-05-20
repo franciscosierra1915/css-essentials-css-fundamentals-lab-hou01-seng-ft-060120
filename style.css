@@ -30,7 +30,7 @@ figcaption {text-align: center;}
   margin-right: auto;
 } 
 
-#details > div {
+#details {
   float: left;
   text-align: center;  
   width: 100%;
